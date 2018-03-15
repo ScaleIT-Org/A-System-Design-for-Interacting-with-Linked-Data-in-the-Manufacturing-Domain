@@ -1,5 +1,9 @@
 # A-System-Design-for-Interacting-with-Linked-Data-in-the-Manufacturing-Domain
 
+<img src="https://github.com/ScaleIT-Org/A-System-Design-for-Interacting-with-Linked-Data-in-the-Manufacturing-Domain/raw/master/images/UI.png" width="80%"/>
+
+<img src="https://github.com/ScaleIT-Org/A-System-Design-for-Interacting-with-Linked-Data-in-the-Manufacturing-Domain/raw/master/images/evaluation.png" width="80%"/>
+
 ### Abstract
 
 Through strong progress in sensor technology in recent years, the amount of data produced by IIoT devices has rapidly increased.
@@ -18,8 +22,8 @@ After design and implementation, the architecture with its overlaying app-interf
 
 ##### Architecture Design
 
-![Architecture Design](images/shopfloor_app_arch.png)
+<img src="https://github.com/ScaleIT-Org/A-System-Design-for-Interacting-with-Linked-Data-in-the-Manufacturing-Domain/raw/master/images/shopfloor_app_arch.png" width="50%"/>
 
 ##### Apps - The architecture building blocks
 
-![Apps - The architecture building blocks](images/app_anatomy.png)
+<img src="https://github.com/ScaleIT-Org/A-System-Design-for-Interacting-with-Linked-Data-in-the-Manufacturing-Domain/raw/master/images/app_anatomy.png" width="50%"/>
